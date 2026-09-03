@@ -4,8 +4,6 @@ public:
         
         int rows = mat.size();
         int cols = mat[0].size();
-
-        // If total number of elements doesn't match
         if (rows * cols != r * c) {
             return mat;
         }
