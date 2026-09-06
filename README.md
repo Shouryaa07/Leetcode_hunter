@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0867-transpose-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1470-shuffle-the-array) |
+| [1748-sum-of-unique-elements](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2643-row-with-maximum-ones](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2643-row-with-maximum-ones) |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1748-sum-of-unique-elements) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
