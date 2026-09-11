@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0172-factorial-trailing-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0278-first-bad-version) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
