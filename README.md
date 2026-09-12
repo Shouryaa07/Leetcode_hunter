@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0136-single-number) |
 | [0566-reshape-the-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0566-reshape-the-matrix) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0278-first-bad-version) |
