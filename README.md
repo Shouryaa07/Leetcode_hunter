@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2643-row-with-maximum-ones](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2643-row-with-maximum-ones) |
+| [3033-modify-the-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/3033-modify-the-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2643-row-with-maximum-ones](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2643-row-with-maximum-ones) |
+| [3033-modify-the-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/3033-modify-the-matrix) |
 ## Simulation
 |  |
 | ------- |
