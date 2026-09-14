@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0136-single-number) |
 | [0566-reshape-the-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -26,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0190-reverse-bits) |
+| [0832-flipping-an-image](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1929-concatenation-of-array) |
@@ -46,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0832-flipping-an-image) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
