@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2643-row-with-maximum-ones) |
 | [3033-modify-the-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/3033-modify-the-matrix) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2643-row-with-maximum-ones) |
 | [3033-modify-the-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/3033-modify-the-matrix) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2614-prime-in-diagonal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2500-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
