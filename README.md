@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2614-prime-in-diagonal](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2643-row-with-maximum-ones) |
 | [3033-modify-the-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/3033-modify-the-matrix) |
 ## Bit Manipulation
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2614-prime-in-diagonal](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2643-row-with-maximum-ones) |
 | [3033-modify-the-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/3033-modify-the-matrix) |
 ## Simulation
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0172-factorial-trailing-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2614-prime-in-diagonal](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2614-prime-in-diagonal) |
 ## Interactive
 |  |
 | ------- |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0190-reverse-bits) |
+## Number Theory
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
