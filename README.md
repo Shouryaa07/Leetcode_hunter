@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2643-row-with-maximum-ones) |
 | [3033-modify-the-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/3033-modify-the-matrix) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2614-prime-in-diagonal](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2614-prime-in-diagonal) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Interactive
 |  |
 | ------- |
