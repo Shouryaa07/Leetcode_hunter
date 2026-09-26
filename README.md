@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0832-flipping-an-image) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2500-delete-greatest-value-in-each-row) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
