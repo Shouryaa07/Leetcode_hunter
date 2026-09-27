@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1470-shuffle-the-array) |
 | [1748-sum-of-unique-elements](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1920-build-array-from-permutation) |
