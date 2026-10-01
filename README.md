@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0867-transpose-matrix) |
+| [0941-valid-mountain-array](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0941-valid-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1385-find-the-distance-value-between-two-arrays) |
