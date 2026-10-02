@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0172-factorial-trailing-zeroes) |
+| [0509-fibonacci-number](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2614-prime-in-diagonal](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/2614-prime-in-diagonal) |
@@ -138,4 +139,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
