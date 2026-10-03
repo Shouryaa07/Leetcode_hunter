@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0344-reverse-string) |
 ## Stack
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -151,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shouryaa07/Leetcode_hunter/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
